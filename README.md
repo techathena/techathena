@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-I am techathena :)
-I am a cybersecurity enthusiast and tech geek constantly looking forward to learn new things.
-
+- I am techathena 😄
+- I am a cybersecurity enthusiast and tech geek constantly looking forward to learn new things.
+- 🔭 I’m currently working on a bunch of security related projects
+- 💬 Ask me about application whitelisting and CTF's
+- 📫 How to reach me: Send a PR to this repo 
+- ⚡ Fun fact: I have a tech blog at https://techathena.tech 
 <!--
 **techathena/techathena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
