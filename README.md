@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am techathena :)
+I am a cybersecurity enthusiast and tech geek constantly looking forward to learn new things.
+
 <!--
 **techathena/techathena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
